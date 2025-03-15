@@ -8,9 +8,9 @@ You will receive one of three possible topologies.
 | Device    | Interface | IP Address                 | Default Gateway |
 |-----------|----------|----------------------------|----------------|
 | College   | G0/0     | 10.10.10.1/24              | N/A            |
-|   | G0/0     | 2001:DB8:ACAD:100::1/64    | N/A            |
+|   |     | 2001:DB8:ACAD:100::1/64    | N/A            |
 | | G0/1     | 10.10.11.1/24              | N/A            |
-|  | G0/1     | 2001:DB8:ACAD:200::1/64    | N/A            |
+|  |     | 2001:DB8:ACAD:200::1/64    | N/A            |
 | Class-A   | VLAN 1   | 10.10.10.100/24            | 10.10.10.1     |
 | Class-B   | VLAN 1   | 10.10.11.100/24            | 10.10.11.1       |
 | Student-1 | NIC      | 10.10.10.101/24            | 10.10.10.1          |
