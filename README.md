@@ -13,13 +13,13 @@ You will receive one of three possible topologies.
 |  | G0/1     | 2001:DB8:ACAD:200::1/64    | N/A            |
 | Class-A   | VLAN 1   | 10.10.10.100/24            | 10.10.10.1     |
 | Class-B   | VLAN 1   | 10.10.11.100/24            | 10.10.11.1       |
-| Student-1 | NIC      | 10.10.10.101/24            | Blank          |
-| |      | 2001:DB8:ACAD:100::50/64   | FE80::2        |
-| Student-2 | NIC      | 10.10.10.102/24            | Blank          |
+| Student-1 | NIC      | 10.10.10.101/24            | 10.10.10.1          |
+| |      | 2001:DB8:ACAD:100::50/64   | FE80::2        | 
+| Student-2 | NIC      | 10.10.10.102/24            | 10.10.10.1          |
 |  |     | 2001:DB8:ACAD:100::60/64   | FE80::2        |
-| Student-3 | NIC      | 10.10.11.101/24            | Blank          |
+| Student-3 | NIC      | 10.10.11.101/24            | 10.10.11.1         |
 |  |       | 2001:DB8:ACAD:200::50/64   | FE80::3        |
-| Student-4 | NIC      | 10.10.11.102/24            | Blank          |
+| Student-4 | NIC      | 10.10.11.102/24            | 10.10.11.1          |
 | |      | 2001:DB8:ACAD:200::60/64   | FE80::3        |
 
 
